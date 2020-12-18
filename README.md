@@ -62,4 +62,7 @@ SGCライブラリ  164 「数理モデルとシミュレーション」
     nbformat         : 5.0.7
     traitlets        : 5.0.4
   ~~~
-  
+
+計算環境の用意が難しい方は以下のBinderからお試しいただけます（自分の計算環境での実行をお勧めします．周期解の追跡など計算にかなりの時間を要します）：
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tmiyaji/sgc164/HEAD)
