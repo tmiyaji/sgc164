@@ -4,7 +4,7 @@ SGCライブラリ  164 「数理モデルとシミュレーション」
 小川知之，宮路智行（共著）
 サイエンス社，ISBN：978-4-7819-1495-4
 
-[正誤表(PDFファイル)](https://www.math.kyoto-u.ac.jp/~tmiyaji/files/sgc164errata.pdf)
+[正誤表](https://researchmap.jp/multidatabases/multidatabase_contents/detail/511642/f5b1c6f483961d142a976179fd86fa40?frame_id=1022474)
 
 
 ## contents
